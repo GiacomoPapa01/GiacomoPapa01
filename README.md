@@ -1,6 +1,6 @@
 ## Hi there 
 
-I'm Giacomo Papa
+I'm **Giacomo Papa**
 Quantitative Finance · Derivatives · Systematic Research
 📍 Milan · 🇮🇹 Italian · EU citizen
 
@@ -8,16 +8,14 @@ MSc in Mathematical Engineering (Quantitative Finance) from Politecnico di Milan
 My background combines rigorous mathematical training with hands-on exposure to real markets. I'm comfortable moving between theory (stochastic calculus, derivatives pricing, risk models) and implementation (Python, data pipelines, quantitative systems).
 Currently targeting roles in quant research, fixed income/rates risk, and systematic strategies across Paris, Milan, and Luxembourg.
 
-Skills
+**Skills**
 Python TensorFlow/Keras scikit-learn NumPy pandas
 Derivatives pricing · Fixed income · FX · Risk management · MX.3
-Languages — Italian (native) · English (fluent) · French (B2+)
+Languages — Italian (native) · English (fluent)
 
-Projects
+**Projects**
 
 Quantitative Equity Decision System (v6) — HMM regime classification, fundamental scoring, Kelly sizing, walk-forward optimization
 Blood Cell CNN Classifier — Transfer learning on MobileNetV3Large, top 10/300+ teams on hidden test set
 Portfolio Replication — Kalman Filter + ensemble methods, pairs trading
 
-
-LinkedIn · giacomopapa2@gmail.comCondividi
