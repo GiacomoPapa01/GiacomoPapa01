@@ -30,15 +30,5 @@ Systematic comparison of **16 portfolio construction strategies** including Mark
 - 💼 Product & Expertise Specialist · Murex, Paris — FX Derivatives, XCS, IRS, CDS on MX.3
 - 📍 Based in Milan · open to roles in Milan, Paris, Luxembourg
 
----
-
-## Stack
-
-```python
-languages  = ["Python", "MATLAB", "SQL"]
-libraries  = ["NumPy", "Pandas", "scikit-learn", "statsmodels", "hmmlearn", "scipy"]
-domains    = ["derivatives pricing", "portfolio optimization", "risk modelling", "time series"]
-```
-
 
 
