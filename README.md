@@ -1,4 +1,3 @@
-## Hi there 
 
 # Giacomo Papa
 
