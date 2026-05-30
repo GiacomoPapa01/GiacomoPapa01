@@ -1,24 +1,45 @@
 ## Hi there 
 
-I'm **Giacomo Papa**
-Quantitative Finance · Derivatives · Systematic Research · Milan · 🇮🇹 Italian · EU citizen
+# Giacomo Papa
 
-MSc in Mathematical Engineering (Quantitative Finance) from Politecnico di Milano. I worked at Murex in Paris as a Product & Expertise Specialist, working daily on FX derivatives, cross-currency swaps, NDFs, and linear interest rate products on the MX.3 platform, sitting at the intersection of pricing theory, risk, and financial infrastructure.
-My background combines rigorous mathematical training with hands-on exposure to real markets. I'm comfortable moving between theory (stochastic calculus, derivatives pricing, risk models) and implementation (Python, data pipelines, quantitative systems).
-Currently targeting roles in quant research, fixed income/rates risk, and systematic strategies across Paris, Milan, and Luxembourg.
+**Quantitative Analyst** · Mathematical Engineering · FX Derivatives · Asset Allocation
 
-**Skills**
-Python TensorFlow/Keras scikit-learn NumPy pandas
-Derivatives pricing · Fixed income · FX · Risk management · MX.3
-Languages — Italian (native) · English (fluent)
 
-**Main Projects**
+I'm a quantitative analyst with an MSc in Mathematical Engineering (Quantitative Finance) from Politecnico di Milano and hands-on experience at **Murex** (Paris), where I worked on FX derivatives pricing, cross-currency swaps, NDFs, and interest rate products on the MX.3 platform.
 
-**Quantitative Equity Decision System (v6)** — HMM regime classification, fundamental scoring, Kelly sizing, walk-forward optimization
+My work sits at the intersection of financial theory and implementation, I'm equally comfortable deriving a pricing model from first principles and translating it into a working system.
 
-**Blood Cell CNN Classifier** — Transfer learning on MobileNetV3Large, top 10/300+ teams on hidden test set
+## Featured Projects
 
-**Portfolio Replication** — Kalman Filter + ensemble methods, pairs trading
+### 🔁 Quant Equity System
+A modular Python system for systematic equity investing, built across three interconnected components:
+- **Walk-forward optimizer** — composite scoring (Sharpe, Calmar, Win Rate, Profit Factor) with HMM-based market regime classification
+- **Daily decision engine** — Kelly-sized position sizing integrated with fundamental scores
+- **Fundamental analyzer** — corporate health, valuation/growth, and macro regime scoring across five states
 
-**Preferred one** ✨: 8-class blood cell image classification using transfer learning (MobileNetV3Large) with heavy data cleaning, RandAugment, and test-time augmentation, achieving 82% accuracy on a hidden CodaLab test set (PoliMi Deep Learning project).
+### 📐 Black-Box Index Replication
+Replication of an undisclosed benchmark index using a **Kalman Filter** initialized with Ridge regression coefficients, ensembled with a **James-Stein shrinkage** estimator and a pairs trading overlay. Built as part of a FinTech course at Politecnico di Milano.
+
+### 📊 Asset Allocation Study
+Systematic comparison of **16 portfolio construction strategies** including Markowitz mean-variance, resampling, Black-Litterman, maximum diversification, maximum entropy, PCA-based, and VaR-adjusted approaches — evaluated across risk-adjusted return metrics.
+
+---
+
+## Background
+
+- 🎓 MSc Mathematical Engineering — Quantitative Finance · Politecnico di Milano
+- 💼 Product & Expertise Specialist · Murex, Paris — FX Derivatives, XCS, IRS, CDS on MX.3
+- 📍 Based in Milan · open to roles in Milan, Paris, Luxembourg
+
+---
+
+## Stack
+
+```python
+languages  = ["Python", "MATLAB", "SQL"]
+libraries  = ["NumPy", "Pandas", "scikit-learn", "statsmodels", "hmmlearn", "scipy"]
+domains    = ["derivatives pricing", "portfolio optimization", "risk modelling", "time series"]
+```
+
+
 
