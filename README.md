@@ -1,13 +1,13 @@
 # Giacomo Papa
 
-**Quantitative Analyst** — Mathematical Engineering · FX Derivatives · Systematic Investing
+**Quantitative Analyst** — Mathematical Engineering · FX Derivatives
 
 
-I hold an MSc in Mathematical Engineering with a specialization in Quantitative Finance from Politecnico di Milano, and professional experience at **Murex** (Paris), where I worked on the pricing and lifecycle management of FX derivatives, cross-currency swaps, non-deliverable forwards, interest rate swaps, and credit default swaps on the MX.3 platform.
+I hold an MSc in Mathematical Engineering with a specialization in Quantitative Finance from Politecnico di Milano, and professional experience at **Murex** (Paris), where I worked on the pricing and lifecycle management of FX derivatives, cross-currency swaps, non-deliverable forwards, interest rate swaps, on the MX.3 platform.
 
 My background spans the full spectrum from rigorous mathematical modeling to hands-on implementation. I am equally comfortable deriving a pricing model from first principles, building a numerical simulation, or integrating a quantitative framework into a production system.
 
-I have a strong inclination toward experimentation — particularly at the intersection of classical quantitative finance and modern machine learning. My personal projects reflect a consistent interest in pushing standard methodologies further: applying Hidden Markov Models for regime detection, exploring Kalman filtering for dynamic factor estimation, and incorporating ensemble methods and shrinkage estimators where classical approaches fall short. I actively explore deep learning architectures in the context of financial time series, signal generation, and feature extraction.
+I have a strong inclination toward experimentation particularly at the intersection of classical quantitative finance and modern machine learning. My personal projects reflect a consistent interest in pushing standard methodologies further: applying Hidden Markov Models for regime detection, exploring Kalman filtering for dynamic factor estimation, and incorporating ensemble methods and shrinkage estimators where classical approaches fall short. I actively explore deep learning architectures in the context of financial time series, signal generation, and feature extraction.
 
 ---
 
